@@ -1,7 +1,13 @@
 Hi there!!!
+from master
+from eclipse
+>>>>>>> dev1
 
 2
 3
 4
+
+add whtevr
+checking conflicts
 
 add whtevr
